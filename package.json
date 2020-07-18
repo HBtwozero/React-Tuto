@@ -2,7 +2,7 @@
   "name": "react-basic",
   "version": "0.1.0",
   "private": true,
-  "home": "https://hbtwozero.github.io/React-Tuto",
+  "homepage": "https://HBtwozero.github.io/React-Tuto",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
